@@ -1,0 +1,15 @@
+{
+    "images": {
+        "map": "map_picture.png",
+        "bus": "bus_selected.png",
+        "resumen": "resumen.png",
+        "cargando": "cargando.png",
+        "before_race": "before_race.png",
+        "event_menu": "event_menu.png"
+    },
+    "timing": {
+        "map_check_interval": 0.5,
+        "bus_check_interval": 0.5,
+        "respawn_delay": [3, 5]
+    }
+}
