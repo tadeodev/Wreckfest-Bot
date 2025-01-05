@@ -1,6 +1,6 @@
 # Wreckfest-Bot
 
-**Wreckfest-Bot** es un bot de uso personal diseñado para automatizar y maximizar ganancias en el juego **Wreckfest**.
+**Wreckfest-Bot** es un bot de uso personal diseñado para automatizar y maximizar ganancias en el juego **Wreckfest**. 
 
 ---
 
@@ -56,6 +56,7 @@ Para detener el bot, simplemente presiona la tecla **U**.
 ## ⚠️ Notas importantes
 - Asegúrate de que todas las configuraciones anteriores estén completas antes de iniciar el bot.
 - Este bot es de uso personal y está diseñado para optimizar ganancias en el juego. Úsalo bajo tu propia responsabilidad.
+- Asegúrate de que el juego está en **ESPAÑOL**, próximamente lo haré compatible en inglés.
 
 ---
 
