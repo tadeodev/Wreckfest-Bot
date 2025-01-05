@@ -41,7 +41,7 @@ Regresa al menú **"Seleccionar pista"**.
 
 ## 🚀 Ejecución del Bot
 
-1. Ejecuta el archivo `.py` o `.exe` del bot.  
+1. Ejecuta el archivo `.py` o `.exe` (próximamente) del bot.  
 2. Cambia a la ventana del juego.  
 3. Coloca el cursor sobre cualquier pista y presiona la tecla **Y** para iniciar el bot.
 
